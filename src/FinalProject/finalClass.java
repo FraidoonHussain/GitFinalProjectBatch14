@@ -7,6 +7,7 @@ public class finalClass {
 		System.out.println("This is the code for mercedes");
 		
 		
+		
 	}
 
 }
